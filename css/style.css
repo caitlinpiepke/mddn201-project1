@@ -27,7 +27,7 @@ header{
 nav{
 	width: 100%;
 	height: 60px;
-	background-color: darkOrange;
+	background-color: lightBlue;
 	color: darkBlue;
 }
 
@@ -54,11 +54,11 @@ nav a:hover{
 }
 
 .g-row img{
-	width: 100%; /*This makes all images in grids to be the size of their cell */
+	width: 60%; /*This makes all images in grids to be the size of their cell */
 }
 
 .g-50{
-	width: 50%;
+	width: 40%;
 	float: left;
 }
 
@@ -73,7 +73,7 @@ nav a:hover{
 }
 
 .show{
-	border: 1px solid blue;
+	border: 2px solid blue;
 	padding: 2px;
 }
 
